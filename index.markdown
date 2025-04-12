@@ -50,5 +50,5 @@ layout: sitepage
 [GitHub](https://github.com/WeinanGao/),
 [Google Sites](https://sites.google.com/view/weinangao)
 * Email: gaown[at]mail[dot]neu[dot]edu[dot]cn
-* 办公地点：东北大学综合楼715
+* 办公地点：东北大学综合实验二期412
 
