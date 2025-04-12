@@ -9,9 +9,14 @@ permalink: /group/
 # 在东北大学任教期间指导的研究生 #
 
 * Yuchen Dong (2023级博士研究生)
+* Kaiyue He (2024级博士研究生)
+* Xue Liang (2024级博士研究生)
 * Sitong Liu (2023级硕士研究生)
 * Jian Ma (2023级硕士研究生)
 * Nairong Qiao (2023级硕士研究生)
+* Yiheng Liu (2024级硕士研究生)
+* Zijian Yang (2024级硕士研究生)
+* Jiaze Li (2024级硕士研究生)
 
 
 # 在美国任教期间指导的研究生 #
