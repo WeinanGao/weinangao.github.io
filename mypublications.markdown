@@ -1,7 +1,7 @@
 ---
 layout: sitepage
 title: MyPublications
-permalink: /mypublications/
+permalink: /publications/
 ---
 
 # PhD Dissertation #
