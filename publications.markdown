@@ -25,9 +25,15 @@ permalink: /publications/
 # Journal Articles #
 <ol>
 
-<li> Weinan Gao, Zhong-Ping Jiang and Tianyou Chai. Resilient control under denial-of-service and uncertainty: An adaptive dynamic programming approach, accepted by IEEE Transactions on Automatic Control, 2025. </li>
+<li> Weinan Gao, Zhong-Ping Jiang and Tianyou Chai. Resilient Control Under Denial-of-Service and Uncertainty: An Adaptive Dynamic Programming Approach, IEEE Transactions on Automatic Control, in press, doi: 10.1109/TAC.2025.3527305. </li>
 
-<li> Fuyu Zhao, Sunxiaoyu Luo, Weinan Gao and Changyun Wen, Event-Triggered Cooperative Adaptive Optimal Output Regulation for Multiagent Systems Under Switching Network: An Adaptive Dynamic Programming Approach, IEEE Transactions on Systems, Man, and Cybernetics: Systems, in press, doi: 10.1109/TSMC.2024.3514202. </li>
+<li> Chuan Hu, Sicheng Ge, Yingkui Shi, Weinan Gao, Wenfeng Guo and Xi Zhang. Composite Nonlinear Trajectory Tracking Control of Co-Driving Vehicles Using Self-Triggered Adaptive Dynamic Programming, IEEE Transactions on Consumer Electronics, in press, doi: 10.1109/TCE.2025.3548520. </li>
+
+<li> Amir Afshari, Mohammad Raeispour, Masoud Davari, Weinan Gao, Frede Blaabjerg and Tianyou Chia. Finite-Rate Distributed Secondary Control Over Digital Communication Networks Using an Event-Triggered Quantized Algorithm for Islanded Modern Microgrids Utilizing Inverter-Based Resources, IEEE Transactions on Industrial Informatics, vol. 21, no. 2, 1002-1016, 2025. </li>
+
+<li> Jian Ma, Weinan Gao* and Weitian Tong. A Deep Reinforcement Learning Assisted Adaptive Genetic Algorithm for Flexible Job Shop Scheduling, Engineering Applications of Artificial Intelligence, vol. 149, no. 1, article 110447, 2025. </li>
+
+<li> Fuyu Zhao, Sunxiaoyu Luo, Weinan Gao and Changyun Wen, Event-Triggered Cooperative Adaptive Optimal Output Regulation for Multiagent Systems Under Switching Network: An Adaptive Dynamic Programming Approach, IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 55, no. 3, 1707-1721, 2025.  </li>
 
 <li> Jianguo Zhao, Chunyu Yang, Weinan Gao, Ju H. Park. Incremental reinforcement learning and optimal output regulation under unmeasurable disturbances, Automatica, regular paper, vol. 160, article 111468, 2024. </li>
 
@@ -170,7 +176,9 @@ permalink: /publications/
 
 <li> Sayan Chakraborty, Weinan Gao, Kyriakos Vamvoudakis and Zhong-Ping Jiang. Resilient Learning-Based Control under Denial-Of-Service Attacks, Conference on Decision and Control, 2024. </li>
 
-<li> Omar Qasem, Weinan Gao, Kyriakos Vamvoudakis and Hector Gutierrez. Adaptive Optimal Control of Continuous-Time Nonlinear Systems Via Hybrid Iteration: An Adaptive Dynamic Programming Approach, Conference on Decision and Control, 2024. </li>
+<li> Sitong Liu, Weinan Gao and Zhong-Ping Jiang. Adaptive Optimal Output-Feedback Control of Discrete-Time Systems based on Hybrid Iteration, Conference on Decision and Control, 2024. </li>
+
+<li> Fuyu Zhao, Weinan Gao, Tengfei Liu and Zhong-Ping Jiang. Event-Triggered Cooperative Adaptive Cruise Control of Vehicular Platoons, Conference on Decision and Control, 2024. </li>
 
 <li> Weinan Gao, Tianyou Chai, Nairong Qiao and Yiheng Liu. String Stable Platooning Control based on Adaptive Dynamic Programming, CAA International Conference on Vehicular Control and Intelligence, 2024, <strong>Guo Konghui Paper Award.</strong> </li>
 
