@@ -27,6 +27,8 @@ permalink: /publications/
 
 <li> Weinan Gao, Zhong-Ping Jiang and Tianyou Chai. Resilient Control Under Denial-of-Service and Uncertainty: An Adaptive Dynamic Programming Approach, IEEE Transactions on Automatic Control, in press, doi: 10.1109/TAC.2025.3527305. </li>
 
+<li> 董昱辰，高伟男，姜钟平. 基于分布式自适应内模的多智能体系统协同最优输出调节, 自动化学报，51(3): 678-691，2025. </li>
+
 <li> Chuan Hu, Sicheng Ge, Yingkui Shi, Weinan Gao, Wenfeng Guo and Xi Zhang. Composite Nonlinear Trajectory Tracking Control of Co-Driving Vehicles Using Self-Triggered Adaptive Dynamic Programming, IEEE Transactions on Consumer Electronics, in press, doi: 10.1109/TCE.2025.3548520. </li>
 
 <li> Amir Afshari, Mohammad Raeispour, Masoud Davari, Weinan Gao, Frede Blaabjerg and Tianyou Chia. Finite-Rate Distributed Secondary Control Over Digital Communication Networks Using an Event-Triggered Quantized Algorithm for Islanded Modern Microgrids Utilizing Inverter-Based Resources, IEEE Transactions on Industrial Informatics, vol. 21, no. 2, 1002-1016, 2025. </li>
