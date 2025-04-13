@@ -27,31 +27,39 @@ permalink: /publications/
 
 <li> Weinan Gao, Zhong-Ping Jiang and Tianyou Chai. Resilient Control Under Denial-of-Service and Uncertainty: An Adaptive Dynamic Programming Approach, IEEE Transactions on Automatic Control, in press, doi: 10.1109/TAC.2025.3527305. </li>
 
-<li> 董昱辰，高伟男*，姜钟平. 基于分布式自适应内模的多智能体系统协同最优输出调节, 自动化学报，51(3): 678-691，2025. </li>
+<li> 董昱辰**，高伟男*，姜钟平. 基于分布式自适应内模的多智能体系统协同最优输出调节, 自动化学报，51(3): 678-691，2025. </li>
+
+<li> Guilong Liu, Yongliang Yang, Weinan Gao, Donald C. Wunsch. Adaptive Nussbaum Design for Nonholonomic Systems with Asymptotic Stabilization against False Data Injection, accepted by IEEE Transactions on Cybernetics, 2025. </li>
+
+<li> Hanyuan Jiang, Sitong Liu**, Wanjun Song, Long Bai, Tianyou Chai* and Weinan Gao. Adaptive Optimal Control of Sedimentation Process using Hybrid Iteration, Journal of Control and Decision, in press, doi: 10.1080/23307706.2025.2482819. </li>
+
+<li> Ning Liu, Tianyou Chai, Yajun Zhang and Weinan Gao. Data-driven optimal tuning of PID controller parameters. SCIENCE CHINA Information Sciences, vol. 68, article 172201, 2025. </li>
 
 <li> Chuan Hu, Sicheng Ge, Yingkui Shi, Weinan Gao, Wenfeng Guo and Xi Zhang. Composite Nonlinear Trajectory Tracking Control of Co-Driving Vehicles Using Self-Triggered Adaptive Dynamic Programming, IEEE Transactions on Consumer Electronics, in press, doi: 10.1109/TCE.2025.3548520. </li>
 
-<li> Amir Afshari, Mohammad Raeispour, Masoud Davari, Weinan Gao, Frede Blaabjerg and Tianyou Chia. Finite-Rate Distributed Secondary Control Over Digital Communication Networks Using an Event-Triggered Quantized Algorithm for Islanded Modern Microgrids Utilizing Inverter-Based Resources, IEEE Transactions on Industrial Informatics, vol. 21, no. 2, 1002-1016, 2025. </li>
+<li> Amir Afshari, Mohammad Raeispour, Masoud Davari, Weinan Gao, Frede Blaabjerg and Tianyou Chai. Finite-Rate Distributed Secondary Control Over Digital Communication Networks Using an Event-Triggered Quantized Algorithm for Islanded Modern Microgrids Utilizing Inverter-Based Resources, IEEE Transactions on Industrial Informatics, vol. 21, no. 2, 1002-1016, 2025. </li>
 
-<li> Jian Ma, Weinan Gao* and Weitian Tong. A Deep Reinforcement Learning Assisted Adaptive Genetic Algorithm for Flexible Job Shop Scheduling, Engineering Applications of Artificial Intelligence, vol. 149, no. 1, article 110447, 2025. </li>
+<li> Jian Ma**, Weinan Gao* and Weitian Tong. A Deep Reinforcement Learning Assisted Adaptive Genetic Algorithm for Flexible Job Shop Scheduling, Engineering Applications of Artificial Intelligence, vol. 149, no. 1, article 110447, 2025. </li>
 
 <li> Fuyu Zhao, Sunxiaoyu Luo, Weinan Gao and Changyun Wen, Event-Triggered Cooperative Adaptive Optimal Output Regulation for Multiagent Systems Under Switching Network: An Adaptive Dynamic Programming Approach, IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 55, no. 3, 1707-1721, 2025.  </li>
 
+<li> Masoud Davari, Weinan Gao*, Amir Aghazadeh, Frede Blaabjerg and Frank L. Lewis. An Optimal Synchronization Control Method of PLL Utilizing Adaptive Dynamic Programming to Synchronize Inverter-Based Resources With Unbalanced, Low-Inertia, and Very Weak Grids, IEEE Transactions on Automation Science and Engineering,  vol. 22, pp. 24-42, 2025. </li>
+
+<li> Masoud Davari, Jianguo Zhao, Chunyu Yang, Weinan Gao* and Tianyou Chai. Reinforcement Learning to Stabilize Singularly Perturbed DC-Side Dynamics of Grid-Connected Voltage-Source Converters in Modern AC/DC Grids Using Singular Perturbation Theory and Adaptive Dynamics Programming, IEEE Transactions on Industrial Electronics, vol. 72, no. 3, pp. 2914-2926, 2025. </li>
+
+<li> Sayan Chakraborty, Weinan Gao, Kyriakos G. Vamvoudakis and Zhong-Ping Jiang, Active Learning-Based Control for Resiliency of Uncertain Systems Under DoS Attacks, IEEE Control Systems Letters, vol. 8, pp. 3297-3302, 2024. </li>
+
 <li> Jianguo Zhao, Chunyu Yang, Weinan Gao, Ju H. Park. Incremental reinforcement learning and optimal output regulation under unmeasurable disturbances, Automatica, regular paper, vol. 160, article 111468, 2024. </li>
 
-<li> Jianguo Zhao, Chunyu Yang, Weinan Gao, Ju H. Park. Optimal Dynamic Controller Design for Linear Quadratic Tracking Problems, IEEE Transactions on Automatic Control, in press, 2024, doi: 10.1109/TAC.2023.3342057. </li>
+<li> Jianguo Zhao, Chunyu Yang, Weinan Gao, Ju H. Park. Optimal Dynamic Controller Design for Linear Quadratic Tracking Problems, IEEE Transactions on Automatic Control, vol. 69, no. 6, pp. 4021-4027, 2024. </li>
 
 <li> Yuchen Dong**, Weinan Gao* and Zhong-Ping Jiang. New Results in Coopeartive Adaptive Optimal Output Regulation, Journal of Systems Science & Complexity, vol. 37, no. 1, 253-272, 2024. </li>
 
-<li> Jun Chen, Lei Zhang and Weinan Gao, Reconfigurable Model Predictive Control for Large Scale Distributed Systems, IEEE Systems Journal, in press, 2024, doi: 10.1109/JSYST.2024.3366911. </li>
+<li> Jun Chen, Lei Zhang and Weinan Gao, Reconfigurable Model Predictive Control for Large Scale Distributed Systems, IEEE Systems Journal, vol. 18, no. 2, pp. 965-976, 2024. </li>
 
-<li> Hongliang Guo, Zhi He, Wenda Sheng, Zhiguang Cao, Yingjie Zhou and Weinan Gao, SEGAC: Sample Efficient Generalized Actor Critic for the Stochastic On-Time Arrival Problem, IEEE Transactions on Intelligent Transportation Systems, in press, 2024, doi: 10.1109/TITS.2024.3361445. </li>
+<li> Hongliang Guo, Zhi He, Wenda Sheng, Zhiguang Cao, Yingjie Zhou and Weinan Gao, SEGAC: Sample Efficient Generalized Actor Critic for the Stochastic On-Time Arrival Problem, IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 8, pp. 10190-10205, 2024. </li>
 
-<li> Omar Qasem**, Hector Gutierrez and Weinan Gao*. Experimental Validation of Data-Driven Adaptive Optimal Control for Continuous-Time Systems via Hybrid Iteration: An Application to Rotary Inverted Pendulum, IEEE Transactions on Industrial Electronics, vol. 71, no. 6, 6210-6220, 2024. doi: 10.1109/TIE.2023.3292873. </li>
-
-<li> Masoud Davari, Weinan Gao*, Amir Aghazadeh, Frede Blaabjerg and Frank L. Lewis. An Optimal Synchronization Control Method of PLL Utilizing Adaptive Dynamic Programming to Synchronize Inverter-Based Resources With Unbalanced, Low-Inertia, and Very Weak Grids, IEEE Transactions on Automation Science and Engineering, in press, 2024. </li>
-
-<li> Masoud Davari, Jianguo Zhao, Chunyu Yang, Weinan Gao* and Tianyou Chai. Reinforcement Learning to Stabilize Singularly Perturbed DC-Side Dynamics of Grid-Connected Voltage-Source Converters in Modern AC/DC Grids Using Singular Perturbation Theory and Adaptive Dynamics Programming, IEEE Transactions on Industrial Electronics, in press, 2024. </li>
+<li> Omar Qasem**, Hector Gutierrez and Weinan Gao*. Experimental Validation of Data-Driven Adaptive Optimal Control for Continuous-Time Systems via Hybrid Iteration: An Application to Rotary Inverted Pendulum, IEEE Transactions on Industrial Electronics, vol. 71, no. 6, 6210-6220, 2024. </li>
 
 <li> Omar Qasem**, Weinan Gao* and Kyriakos G. Vamvoudakis. Adaptive Optimal Control of Continuous-Time Nonlinear Affine Systems via Hybrid Iteration, Automatica, vol. 157, article 111261, 2023. </li>
  
@@ -176,17 +184,15 @@ permalink: /publications/
 # Conference Papers #
 <ol>
 
-<li> Sayan Chakraborty, Weinan Gao, Kyriakos Vamvoudakis and Zhong-Ping Jiang. Resilient Learning-Based Control under Denial-Of-Service Attacks, Conference on Decision and Control, 2024. </li>
-
-<li> Sitong Liu, Weinan Gao and Zhong-Ping Jiang. Adaptive Optimal Output-Feedback Control of Discrete-Time Systems based on Hybrid Iteration, Conference on Decision and Control, 2024. </li>
+<li> Sitong Liu**, Weinan Gao and Zhong-Ping Jiang. Adaptive Optimal Output-Feedback Control of Discrete-Time Systems based on Hybrid Iteration, Conference on Decision and Control, 2024. </li>
 
 <li> Fuyu Zhao, Weinan Gao, Tengfei Liu and Zhong-Ping Jiang. Event-Triggered Cooperative Adaptive Cruise Control of Vehicular Platoons, Conference on Decision and Control, 2024. </li>
 
-<li> Weinan Gao, Tianyou Chai, Nairong Qiao and Yiheng Liu. String Stable Platooning Control based on Adaptive Dynamic Programming, CAA International Conference on Vehicular Control and Intelligence, 2024, <strong>Guo Konghui Paper Award.</strong> </li>
+<li> Weinan Gao, Tianyou Chai, Nairong Qiao** and Yiheng Liu**. String Stable Platooning Control based on Adaptive Dynamic Programming, CAA International Conference on Vehicular Control and Intelligence, 2024, <strong>Guo Konghui Paper Award.</strong> </li>
 
 <li> Weinan Gao, Zhong-Ping Jiang and Tianyou Chai. Bridging the Gap Between Reinforcement Learning and Nonlinear Output-Feedback Control, Chinese Control Conference, 2024. </li>
 
-<li> Yuchen Dong and Weinan Gao. Cooperative adaptive optimal output regulation of multi-agent systems with an application to connected and autonomous vehicles, IEEE International Conference on Industrial Cyber-Physical Systems (ICPS), 2024. </li>
+<li> Yuchen Dong** and Weinan Gao. Cooperative adaptive optimal output regulation of multi-agent systems with an application to connected and autonomous vehicles, IEEE International Conference on Industrial Cyber-Physical Systems (ICPS), 2024. </li>
 
 <li> Jianguo Zhao, Chunyu Yang, Linna Zhou and Weinan Gao. Adaptive Dynamic Programming and Decentralized Optimal Output Regulation of Two-Time-Scale Interconnected Systems, IEEE International Conference on Control, Automation and Information Sciences (ICCAIS), 2023, <strong>Best Paper Award.</strong>  </li> 
  
@@ -198,7 +204,7 @@ permalink: /publications/
  
 <li> Liwei An, Weinan Gao, Chao Deng, Weiwei Che. Collision/Obstacle Avoidance Dynamic Formation Reconfiguration of High-Order Nonlinear Multi-Agent Systems, Chinese Control and Decision Conference, 2023, <strong>Zhang Siying Outstanding Youth Paper Award Finalist.</strong> </li>
  
-<li>  Omar Qasem**, Khalid Jebari** and Weinan Gao. Adaptive Dynamic Programming and Data-Driven Cooperative Optimal Output Regulation with Adaptive Observers, Conference on Decision and Control (CDC), 2022.   </li>
+<li> Omar Qasem**, Khalid Jebari** and Weinan Gao. Adaptive Dynamic Programming and Data-Driven Cooperative Optimal Output Regulation with Adaptive Observers, Conference on Decision and Control (CDC), 2022.   </li>
 
 <li> Yi Jiang and Weinan Gao. Value Iteration and Data-Driven Adaptive Optimal Output Regulation of Linear Continuous-Time Systems, Chinese Control and Decision Conference, 2022, <strong>Zhang Siying Outstanding Youth Paper Award Finalist.</strong> </li>
 
