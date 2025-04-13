@@ -10,15 +10,17 @@ permalink: /publications/
 </ol> 
 
 # Book Chapters #
-<ol> <li> Weinan Gao, and Zhong-Ping Jiang. Data-driven Nonlinear Adaptive Optimal Control of Connected Vehicles. Neural Information Processing, Lecture Notes in Computer Science series , Springer, 2017. </li>
-<li> Zhong-Ping Jiang, Tao Bian, and Weinan Gao.  Learning-Based Control: A Tutorial and Some Recent Results, Foundations and Trends in Systems and Control: vol. 8, no. 3, pp 176–284, 2020. doi: 10.1561/2600000023. </li>
+<ol> 
+<li> Weinan Gao, Nairong Qiao** and Fuyu Zhao. Data-Driven Adaptive Optimal Control of Vehicular Platoons With Ensured String Stability, Encyclopedia of Systems and Control Engineering, in press. </li>
+<li> Weinan Gao and Zhong-Ping Jiang. Data-driven Nonlinear Adaptive Optimal Control of Connected Vehicles. Neural Information Processing, Lecture Notes in Computer Science series , Springer, 2017. </li>
+<li> Zhong-Ping Jiang, Tao Bian and Weinan Gao.  Learning-Based Control: A Tutorial and Some Recent Results, Foundations and Trends in Systems and Control: vol. 8, no. 3, pp 176–284, 2020. doi: 10.1561/2600000023. </li>
 </ol>
 
 
 # Patents #
 <ol>
-<li> Ankush Chakrabarty, Rien Quirynen, Claus Danielson, and Weinan Gao. System and Method for Data-Driven Control of Constrained System, 2020. United States Patent Application 20200285209. </li>
-<li> Yebin Wang, and Weinan Gao.  Data-Driven Nonlinear Output-Feedback Control of Power Generators , 2020. United States Patent Application  United States Patent Application 20200310372. </li>
+<li> Ankush Chakrabarty, Rien Quirynen, Claus Danielson and Weinan Gao. System and Method for Data-Driven Control of Constrained System, 2020. United States Patent Application 20200285209. </li>
+<li> Yebin Wang and Weinan Gao. Data-Driven Nonlinear Output-Feedback Control of Power Generators, 2020. United States Patent Application  United States Patent Application 20200310372. </li>
 </ol>
 
 
@@ -29,13 +31,13 @@ permalink: /publications/
 
 <li> 董昱辰**，高伟男*，姜钟平. 基于分布式自适应内模的多智能体系统协同最优输出调节, 自动化学报，51(3): 678-691，2025. </li>
 
-<li> Guilong Liu, Yongliang Yang, Weinan Gao, Donald C. Wunsch. Adaptive Nussbaum Design for Nonholonomic Systems with Asymptotic Stabilization against False Data Injection, accepted by IEEE Transactions on Cybernetics, 2025. </li>
+<li> Guilong Liu, Yongliang Yang, Weinan Gao and Donald C. Wunsch. Adaptive Nussbaum Design for Nonholonomic Systems with Asymptotic Stabilization against False Data Injection, accepted by IEEE Transactions on Cybernetics, 2025. </li>
 
 <li> Hanyuan Jiang, Sitong Liu**, Wanjun Song, Long Bai, Tianyou Chai* and Weinan Gao. Adaptive Optimal Control of Sedimentation Process using Hybrid Iteration, Journal of Control and Decision, in press, doi: 10.1080/23307706.2025.2482819. </li>
 
-<li> Masoud Davari, Omar Qasem, Weinan Gao, Frede Blaabjerg, Panos C Kotsampopoulos, Georg Lauss, Nikos D Hatziargyriou. A Reinforcement-Learning, Optimal Approach to In Situ Power Hardware-in-the-Loop Interface Control for Testing Inverter-Based Resources: Theory and Application of the Adaptive Dynamic Programming Based on the Hybrid Iteration to Tackle Uncertain Dynamics, IEEE Transactions on Industrial Electronics, in press, doi: 10.1109/TIE.2024.3426038. </li>
+<li> Masoud Davari, Omar Qasem, Weinan Gao, Frede Blaabjerg, Panos C. Kotsampopoulos, Georg Lauss and Nikos D. Hatziargyriou. A Reinforcement-Learning, Optimal Approach to In Situ Power Hardware-in-the-Loop Interface Control for Testing Inverter-Based Resources: Theory and Application of the Adaptive Dynamic Programming Based on the Hybrid Iteration to Tackle Uncertain Dynamics, IEEE Transactions on Industrial Electronics, in press, doi: 10.1109/TIE.2024.3426038. </li>
 
-<li> Sadegh Esfandiari, Masoud Davari, Weinan Gao, Yongheng Yang, Kamal Al-Haddad. A Novel Converter-Based PV Emulator Control Using Lambert W Method and Fractional-Order Fuzzy Proportional-Integral Controller Trained by Harris Hawks Optimization for PV Inverter-Based Resources, IEEE Journal of Emerging and Selected Topics in Industrial Electronics, vol. 5, no. 4, pp. 1493-1507, 2024. </li>
+<li> Sadegh Esfandiari, Masoud Davari, Weinan Gao, Yongheng Yang and Kamal Al-Haddad. A Novel Converter-Based PV Emulator Control Using Lambert W Method and Fractional-Order Fuzzy Proportional-Integral Controller Trained by Harris Hawks Optimization for PV Inverter-Based Resources, IEEE Journal of Emerging and Selected Topics in Industrial Electronics, vol. 5, no. 4, pp. 1493-1507, 2024. </li>
 
 <li> Ning Liu, Tianyou Chai, Yajun Zhang and Weinan Gao. Data-driven optimal tuning of PID controller parameters. SCIENCE CHINA Information Sciences, vol. 68, article 172201, 2025. </li>
 
