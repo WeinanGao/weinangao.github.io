@@ -190,6 +190,10 @@ permalink: /publications/
 # Conference Papers #
 <ol>
 
+<li> Sitong Liu**, Weinan Gao* and Zhongmei Li. Policy Iteration of Nonlinear Discrete-time Systems with Input Time-Delay, IFAC Symposium on Nonlinear Control Systems, 2025. </li>
+
+<li> Sayan Chakraborty, Weinan Gao, Kyriakos G. Vamvoudakis and Zhong-Ping Jiang. Active Learning-Based Control for Resiliency of Uncertain Systems Under DoS Attacks, American Control Conference, 2025. </li>
+
 <li> Sitong Liu**, Weinan Gao and Zhong-Ping Jiang. Adaptive Optimal Output-Feedback Control of Discrete-Time Systems based on Hybrid Iteration, Conference on Decision and Control, 2024. </li>
 
 <li> Fuyu Zhao, Weinan Gao, Tengfei Liu and Zhong-Ping Jiang. Event-Triggered Cooperative Adaptive Cruise Control of Vehicular Platoons, Conference on Decision and Control, 2024. </li>
