@@ -20,6 +20,7 @@ permalink: /service/
 
 # 学术会议程序委员会 #
 
+* Associate Editor, IEEE Conference on Control Technology and Applications (CCTA), 2025
 * Conference Chair, International Conference on Urban Construction and Transportation, 2024
 * Program Chair, International Artificial Intelligence and Blockchain Conference, 2024
 * Sponsorship Co-Chair, International Conference on Industrial Artificial Intelligence (IAI), 2024
