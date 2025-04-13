@@ -18,7 +18,7 @@ permalink: /group/
 * Zijian Yang (2024级硕士研究生)
 * Jiaze Li (2024级硕士研究生)
 
-<img src="{{site.url}}/groupphotoFIT.jpg" alt="images/GroupNEU2025" width="300px" height="336px" />&nbsp;
+<img src="{{site.url}}/groupphotoFIT.jpg" alt="GroupNEU2025" width="300px" height="336px" />&nbsp;
 
 # 在美国任教期间指导的研究生 #
 
