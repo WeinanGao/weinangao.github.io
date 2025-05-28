@@ -28,7 +28,7 @@ layout: sitepage
 
 # 奖励与荣誉
 
-* GuoKonghui Paper Award, 中国车辆控制与智能化大会，重庆，2024
+* Guo Konghui Paper Award, 中国车辆控制与智能化大会，重庆，2024
 * Best Paper Award, IEEE控制、自动化与信息科学会议, 越南河内, 2023  
 * Best Paper Award, IEEE数据驱动控制与学习系统会议, 湘潭, 2023
 * Engineering Research Initiation Award, 美国自然科学基金委，2022
