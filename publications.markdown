@@ -27,7 +27,9 @@ permalink: /publications/
 # Journal Articles #
 <ol>
 
-<li> Weinan Gao, Zhong-Ping Jiang and Tianyou Chai. Resilient Control Under Denial-of-Service and Uncertainty: An Adaptive Dynamic Programming Approach, IEEE Transactions on Automatic Control, in press, doi: 10.1109/TAC.2025.3527305. </li>
+<li> Weinan Gao, Zhong-Ping Jiang and Tianyou Chai. Resilient Control Under Denial-of-Service and Uncertainty: An Adaptive Dynamic Programming Approach, IEEE Transactions on Automatic Control, vol. 70, no. 6, pp. 4085-4092, 2025. </li>
+
+<li> Yongliang Yang, Weinan Gao* and Zhong-Ping Jiang. Fast Adaptive Dynamic Programming: Shamanskii Iteration for Adaptive Optimal Control, accepted by Automatica, 2025. </li>
 
 <li> 董昱辰**，高伟男*，姜钟平. 基于分布式自适应内模的多智能体系统协同最优输出调节, 自动化学报，51(3): 678-691，2025. </li>
 
