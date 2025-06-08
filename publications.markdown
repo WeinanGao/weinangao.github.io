@@ -31,6 +31,10 @@ permalink: /publications/
 
 <li> Yongliang Yang, Weinan Gao* and Zhong-Ping Jiang. Fast Adaptive Dynamic Programming: Shamanskii Iteration for Adaptive Optimal Control, accepted by Automatica, 2025. </li>
 
+<li> Xue Liang, Weinan Gao, Chuan Hu and Tianyou Chai. Cooperative adaptive cruise control of connected and autonomous vehicles via hybrid iteration, accepted by IEEE Transactions on Vehicular Technology, 2025. </li>
+
+<li>  Yi Jiang, Tao Yang, Weinan Gao, Jin Wu, Tianyou Chai, and Frank L. Lewis. Off-Policy Reinforcement Learning for H_\infty Control of Linear Discrete-Time Systems with Network Induced Dropouts, accepted by IEEE Transactions on Automatic Control, 2025. </li>
+
 <li> 董昱辰**，高伟男*，姜钟平. 基于分布式自适应内模的多智能体系统协同最优输出调节, 自动化学报，51(3): 678-691，2025. </li>
 
 <li> Guilong Liu, Yongliang Yang, Weinan Gao and Donald C. Wunsch. Adaptive Nussbaum Design for Nonholonomic Systems with Asymptotic Stabilization against False Data Injection, accepted by IEEE Transactions on Cybernetics, 2025. </li>
