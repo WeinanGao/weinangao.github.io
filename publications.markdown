@@ -31,9 +31,9 @@ permalink: /publications/
 
 <li> Yongliang Yang, Weinan Gao* and Zhong-Ping Jiang. Fast Adaptive Dynamic Programming: Shamanskii Iteration for Adaptive Optimal Control, accepted by Automatica, 2025. </li>
 
-<li> Xue Liang, Weinan Gao, Chuan Hu and Tianyou Chai. Cooperative adaptive cruise control of connected and autonomous vehicles via hybrid iteration, accepted by IEEE Transactions on Vehicular Technology, 2025. </li>
+<li> Xue Liang**, Weinan Gao*, Chuan Hu and Tianyou Chai. Cooperative adaptive cruise control of connected and autonomous vehicles via hybrid iteration, accepted by IEEE Transactions on Vehicular Technology, 2025. </li>
 
-<li> Yiheng Liu, Weinan Gao* and Yongliang Yang. Data-Driven Chebyshev Iteration for Linear Quadratic Gaussian Games, accepted by SCIENCE CHINA Information Sciences, 2025. </li>
+<li> Yiheng Liu**, Weinan Gao* and Yongliang Yang. Data-Driven Chebyshev Iteration for Linear Quadratic Gaussian Games, accepted by SCIENCE CHINA Information Sciences, 2025. </li>
 
 <li>  Yi Jiang, Tao Yang, Weinan Gao, Jin Wu, Tianyou Chai, and Frank L. Lewis. Off-Policy Reinforcement Learning for H_\infty Control of Linear Discrete-Time Systems with Network Induced Dropouts, accepted by IEEE Transactions on Automatic Control, 2025. </li>
 
