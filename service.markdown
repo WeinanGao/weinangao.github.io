@@ -46,8 +46,10 @@ permalink: /service/
 
 # 学术会议主旨报告 #
 
+* International Conference on Electrical, Control and Artificial Intelligence (IEEE), Guangzhou, China, 2025
+* International Artificial Intelligence and Blockchain Conference (ACM), Tokyo, Japan, 2025
 * Chinese Process Control Conference, Sanya, China, 2024
-* International Artificial Intelligence and Blockchain Conference, Tokyo, Japan, 2024
+* International Conference on Energy, Power and Electrical Engineering (IEEE), Wuhan, China, 2024
 * International Conference on Information Control, Electrical Engineering and Rail Transit, Changchun, China, 2024
 * International Conference on Smart Grid and Artificial Intelligence, Guangzhou, China, 2024
 * International Conference on Management Science and Engineering Management, Shenyang, China, 2024
@@ -63,4 +65,5 @@ permalink: /service/
 * 中国人工智能学会工业人工智能专委会，2022-Now, 委员
 * TCCT非线性系统与控制程序委员会，2022-Now，委员
 * 辽宁自动化学会会员，2023-Now, 委员
+
 
