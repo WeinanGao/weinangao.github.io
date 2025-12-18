@@ -31,7 +31,7 @@ permalink: /publications/
 
 <li> Yongliang Yang, Weinan Gao* and Zhong-Ping Jiang. Fast Adaptive Dynamic Programming: Shamanskii Iteration for Adaptive Optimal Control, Automatica, vol. 181, article 112494, 2025. </li>
 
-<li> Xue Liang**, Weinan Gao*, Chuan Hu and Tianyou Chai. Cooperative adaptive cruise control of connected and autonomous vehicles via hybrid iteration, accepted by IEEE Transactions on Vehicular Technology, 2025. </li>
+<li> Xue Liang**, Weinan Gao*, Chuan Hu and Tianyou Chai. Cooperative Adaptive Cruise Control of Connected and Autonomous Vehicles via Hybrid Iteration, accepted by IEEE Transactions on Vehicular Technology, 2025. </li>
 
 <li> Yiheng Liu**, Weinan Gao* and Yongliang Yang. Data-Driven Chebyshev Iteration for Linear Quadratic Gaussian Games, SCIENCE CHINA Information Sciences, 2025. </li>
 
@@ -297,5 +297,6 @@ permalink: /publications/
 
 <li> Zheng Fang, Weinan Gao, Adaptive integral backstepping control of a Micro-Quadrotor. International Conference on Intelligent Control and Information Processing (ICICIP), 2011. </li>
 </ol>  
+
 
 
