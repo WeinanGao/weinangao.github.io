@@ -29,27 +29,31 @@ permalink: /publications/
 
 <li> Weinan Gao, Zhong-Ping Jiang and Tianyou Chai. Resilient Control Under Denial-of-Service and Uncertainty: An Adaptive Dynamic Programming Approach, IEEE Transactions on Automatic Control, vol. 70, no. 6, pp. 4085-4092, 2025. </li>
 
-<li> Yongliang Yang, Weinan Gao* and Zhong-Ping Jiang. Fast Adaptive Dynamic Programming: Shamanskii Iteration for Adaptive Optimal Control, accepted by Automatica, 2025. </li>
+<li> Yongliang Yang, Weinan Gao* and Zhong-Ping Jiang. Fast Adaptive Dynamic Programming: Shamanskii Iteration for Adaptive Optimal Control, Automatica, vol. 181, article 112494, 2025. </li>
 
 <li> Xue Liang**, Weinan Gao*, Chuan Hu and Tianyou Chai. Cooperative adaptive cruise control of connected and autonomous vehicles via hybrid iteration, accepted by IEEE Transactions on Vehicular Technology, 2025. </li>
 
-<li> Yiheng Liu**, Weinan Gao* and Yongliang Yang. Data-Driven Chebyshev Iteration for Linear Quadratic Gaussian Games, accepted by SCIENCE CHINA Information Sciences, 2025. </li>
+<li> Yiheng Liu**, Weinan Gao* and Yongliang Yang. Data-Driven Chebyshev Iteration for Linear Quadratic Gaussian Games, SCIENCE CHINA Information Sciences, 2025. </li>
 
-<li>  Yi Jiang, Tao Yang, Weinan Gao, Jin Wu, Tianyou Chai, and Frank L. Lewis. Off-Policy Reinforcement Learning for H_\infty Control of Linear Discrete-Time Systems with Network Induced Dropouts, accepted by IEEE Transactions on Automatic Control, 2025. </li>
+<li> Yi Jiang, Tao Yang, Weinan Gao, Jin Wu, Tianyou Chai, and Frank L. Lewis. Off-Policy Reinforcement Learning for H_\infty Control of Linear Discrete-Time Systems with Network Induced Dropouts, accepted by IEEE Transactions on Automatic Control, 2025. </li>
 
 <li> 董昱辰**，高伟男*，姜钟平. 基于分布式自适应内模的多智能体系统协同最优输出调节, 自动化学报，51(3): 678-691，2025. </li>
+
+<li> 刘思彤**, 高伟男*, 姜钟平. 带有输入时滞的非线性系统基于学习的输出反馈控制, 自动化学报, 51(10): 2293−2301, 2025. </li>
+
+- <li> Zijian Yang, Yuchen Dong, Weinan Gao*, Quan Na* and Tengfei Liu. Output-Feedback Optimal Control to Prevent Hypotension Associated with Labor Epidural Anesthesia, accepted by Unmanned Systems, 2025. </li>
 
 <li> Guilong Liu, Yongliang Yang, Weinan Gao and Donald C. Wunsch. Adaptive Nussbaum Design for Nonholonomic Systems with Asymptotic Stabilization against False Data Injection, accepted by IEEE Transactions on Cybernetics, 2025. </li>
 
 <li> Hanyuan Jiang, Sitong Liu**, Wanjun Song, Long Bai, Tianyou Chai* and Weinan Gao. Adaptive Optimal Control of Sedimentation Process using Hybrid Iteration, Journal of Control and Decision, in press, doi: 10.1080/23307706.2025.2482819. </li>
 
-<li> Masoud Davari, Omar Qasem, Weinan Gao, Frede Blaabjerg, Panos C. Kotsampopoulos, Georg Lauss and Nikos D. Hatziargyriou. A Reinforcement-Learning, Optimal Approach to In Situ Power Hardware-in-the-Loop Interface Control for Testing Inverter-Based Resources: Theory and Application of the Adaptive Dynamic Programming Based on the Hybrid Iteration to Tackle Uncertain Dynamics, IEEE Transactions on Industrial Electronics, in press, doi: 10.1109/TIE.2024.3426038. </li>
+<li> Masoud Davari, Omar Qasem, Weinan Gao, Frede Blaabjerg, Panos C. Kotsampopoulos, Georg Lauss and Nikos D. Hatziargyriou. A Reinforcement-Learning, Optimal Approach to In Situ Power Hardware-in-the-Loop Interface Control for Testing Inverter-Based Resources: Theory and Application of the Adaptive Dynamic Programming Based on the Hybrid Iteration to Tackle Uncertain Dynamics, IEEE Transactions on Industrial Electronics, vol. 72, no. 6, 5867-5883,2025. </li>
 
 <li> Sadegh Esfandiari, Masoud Davari, Weinan Gao, Yongheng Yang and Kamal Al-Haddad. A Novel Converter-Based PV Emulator Control Using Lambert W Method and Fractional-Order Fuzzy Proportional-Integral Controller Trained by Harris Hawks Optimization for PV Inverter-Based Resources, IEEE Journal of Emerging and Selected Topics in Industrial Electronics, vol. 5, no. 4, pp. 1493-1507, 2024. </li>
 
 <li> Ning Liu, Tianyou Chai, Yajun Zhang and Weinan Gao. Data-driven optimal tuning of PID controller parameters. SCIENCE CHINA Information Sciences, vol. 68, article 172201, 2025. </li>
 
-<li> Chuan Hu, Sicheng Ge, Yingkui Shi, Weinan Gao, Wenfeng Guo and Xi Zhang. Composite Nonlinear Trajectory Tracking Control of Co-Driving Vehicles Using Self-Triggered Adaptive Dynamic Programming, IEEE Transactions on Consumer Electronics, in press, doi: 10.1109/TCE.2025.3548520. </li>
+<li> Chuan Hu, Sicheng Ge, Yingkui Shi, Weinan Gao, Wenfeng Guo and Xi Zhang. Composite Nonlinear Trajectory Tracking Control of Co-Driving Vehicles Using Self-Triggered Adaptive Dynamic Programming, IEEE Transactions on Consumer Electronics, vol. 7, no. 2, 2025. </li>
 
 <li> Amir Afshari, Mohammad Raeispour, Masoud Davari, Weinan Gao, Frede Blaabjerg and Tianyou Chai. Finite-Rate Distributed Secondary Control Over Digital Communication Networks Using an Event-Triggered Quantized Algorithm for Islanded Modern Microgrids Utilizing Inverter-Based Resources, IEEE Transactions on Industrial Informatics, vol. 21, no. 2, pp. 1002-1016, 2025. </li>
 
@@ -293,3 +297,4 @@ permalink: /publications/
 
 <li> Zheng Fang, Weinan Gao, Adaptive integral backstepping control of a Micro-Quadrotor. International Conference on Intelligent Control and Information Processing (ICICIP), 2011. </li>
 </ol>  
+
