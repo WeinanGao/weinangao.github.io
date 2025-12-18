@@ -41,7 +41,7 @@ permalink: /publications/
 
 <li> 刘思彤**, 高伟男*, 姜钟平. 带有输入时滞的非线性系统基于学习的输出反馈控制, 自动化学报, 51(10): 2293−2301, 2025. </li>
 
-- <li> Zijian Yang, Yuchen Dong, Weinan Gao*, Quan Na* and Tengfei Liu. Output-Feedback Optimal Control to Prevent Hypotension Associated with Labor Epidural Anesthesia, accepted by Unmanned Systems, 2025. </li>
+<li> Zijian Yang, Yuchen Dong, Weinan Gao*, Quan Na* and Tengfei Liu. Output-Feedback Optimal Control to Prevent Hypotension Associated with Labor Epidural Anesthesia, accepted by Unmanned Systems, 2025. </li>
 
 <li> Guilong Liu, Yongliang Yang, Weinan Gao and Donald C. Wunsch. Adaptive Nussbaum Design for Nonholonomic Systems with Asymptotic Stabilization against False Data Injection, accepted by IEEE Transactions on Cybernetics, 2025. </li>
 
@@ -297,4 +297,5 @@ permalink: /publications/
 
 <li> Zheng Fang, Weinan Gao, Adaptive integral backstepping control of a Micro-Quadrotor. International Conference on Intelligent Control and Information Processing (ICICIP), 2011. </li>
 </ol>  
+
 
