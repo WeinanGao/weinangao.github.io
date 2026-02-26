@@ -27,6 +27,10 @@ permalink: /publications/
 # Journal Articles #
 <ol>
 
+<li> Weinan Gao, Yebin Wang and Kyriakos G. Vamvoudakis. Output-Feedback Learning-based Adaptive Optimal Control of Nonlinear Systems, Automatica, regular paper, in press, 2026. </li>
+
+<li> Weinan Gao, Sitong Liu** and Zhong-Ping Jiang. Adaptive Optimal Output Regulation of Polynomial Systems via Internal Model Principle, Automatica, regular paper, in press, 2026. </li>
+
 <li> Weinan Gao, Zhong-Ping Jiang and Tianyou Chai. Resilient Control Under Denial-of-Service and Uncertainty: An Adaptive Dynamic Programming Approach, IEEE Transactions on Automatic Control, vol. 70, no. 6, pp. 4085-4092, 2025. </li>
 
 <li> Yongliang Yang, Weinan Gao* and Zhong-Ping Jiang. Fast Adaptive Dynamic Programming: Shamanskii Iteration for Adaptive Optimal Control, Automatica, vol. 181, article 112494, 2025. </li>
@@ -297,6 +301,7 @@ permalink: /publications/
 
 <li> Zheng Fang, Weinan Gao, Adaptive integral backstepping control of a Micro-Quadrotor. International Conference on Intelligent Control and Information Processing (ICICIP), 2011. </li>
 </ol>  
+
 
 
 
