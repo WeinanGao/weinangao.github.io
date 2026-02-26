@@ -51,9 +51,7 @@ permalink: /publications/
 
 <li> Hanyuan Jiang, Sitong Liu**, Wanjun Song, Long Bai, Tianyou Chai* and Weinan Gao. Adaptive Optimal Control of Sedimentation Process using Hybrid Iteration, Journal of Control and Decision, in press, doi: 10.1080/23307706.2025.2482819. </li>
 
-<li> Masoud Davari, Omar Qasem, Weinan Gao, Frede Blaabjerg, Panos C. Kotsampopoulos, Georg Lauss and Nikos D. Hatziargyriou. A Reinforcement-Learning, Optimal Approach to In Situ Power Hardware-in-the-Loop Interface Control for Testing Inverter-Based Resources: Theory and Application of the Adaptive Dynamic Programming Based on the Hybrid Iteration to Tackle Uncertain Dynamics, IEEE Transactions on Industrial Electronics, vol. 72, no. 6, 5867-5883,2025. </li>
-
-<li> Sadegh Esfandiari, Masoud Davari, Weinan Gao, Yongheng Yang and Kamal Al-Haddad. A Novel Converter-Based PV Emulator Control Using Lambert W Method and Fractional-Order Fuzzy Proportional-Integral Controller Trained by Harris Hawks Optimization for PV Inverter-Based Resources, IEEE Journal of Emerging and Selected Topics in Industrial Electronics, vol. 5, no. 4, pp. 1493-1507, 2024. </li>
+<li> Masoud Davari, Omar Qasem, Weinan Gao, Frede Blaabjerg, Panos C. Kotsampopoulos, Georg Lauss and Nikos D. Hatziargyriou. A Reinforcement-Learning, Optimal Approach to In Situ Power Hardware-in-the-Loop Interface Control for Testing Inverter-Based Resources: Theory and Application of the Adaptive Dynamic Programming Based on the Hybrid Iteration to Tackle Uncertain Dynamics, IEEE Transactions on Industrial Electronics, vol. 72, no. 6, 5867-5883, 2025. </li>
 
 <li> Ning Liu, Tianyou Chai, Yajun Zhang and Weinan Gao. Data-driven optimal tuning of PID controller parameters. SCIENCE CHINA Information Sciences, vol. 68, article 172201, 2025. </li>
 
@@ -68,6 +66,8 @@ permalink: /publications/
 <li> Masoud Davari, Weinan Gao*, Amir Aghazadeh, Frede Blaabjerg and Frank L. Lewis. An Optimal Synchronization Control Method of PLL Utilizing Adaptive Dynamic Programming to Synchronize Inverter-Based Resources With Unbalanced, Low-Inertia, and Very Weak Grids, IEEE Transactions on Automation Science and Engineering,  vol. 22, pp. 24-42, 2025. </li>
 
 <li> Masoud Davari, Jianguo Zhao, Chunyu Yang, Weinan Gao* and Tianyou Chai. Reinforcement Learning to Stabilize Singularly Perturbed DC-Side Dynamics of Grid-Connected Voltage-Source Converters in Modern AC/DC Grids Using Singular Perturbation Theory and Adaptive Dynamics Programming, IEEE Transactions on Industrial Electronics, vol. 72, no. 3, pp. 2914-2926, 2025. </li>
+
+<li> Sadegh Esfandiari, Masoud Davari, Weinan Gao, Yongheng Yang and Kamal Al-Haddad. A Novel Converter-Based PV Emulator Control Using Lambert W Method and Fractional-Order Fuzzy Proportional-Integral Controller Trained by Harris Hawks Optimization for PV Inverter-Based Resources, IEEE Journal of Emerging and Selected Topics in Industrial Electronics, vol. 5, no. 4, pp. 1493-1507, 2024. </li>
 
 <li> Sayan Chakraborty, Weinan Gao, Kyriakos G. Vamvoudakis and Zhong-Ping Jiang, Active Learning-Based Control for Resiliency of Uncertain Systems Under DoS Attacks, IEEE Control Systems Letters, vol. 8, pp. 3297-3302, 2024. </li>
 
@@ -301,6 +301,7 @@ permalink: /publications/
 
 <li> Zheng Fang, Weinan Gao, Adaptive integral backstepping control of a Micro-Quadrotor. International Conference on Intelligent Control and Information Processing (ICICIP), 2011. </li>
 </ol>  
+
 
 
 
