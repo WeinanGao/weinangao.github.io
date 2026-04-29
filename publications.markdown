@@ -27,15 +27,21 @@ permalink: /publications/
 # Journal Articles #
 <ol>
 
-<li> Weinan Gao, Yebin Wang and Kyriakos G. Vamvoudakis. Output-Feedback Learning-based Adaptive Optimal Control of Nonlinear Systems, Automatica, regular paper, in press, 2026. </li>
+<li> Weinan Gao, Yebin Wang and Kyriakos G. Vamvoudakis. Output-Feedback Learning-based Adaptive Optimal Control of Nonlinear Systems, Automatica, regular paper, vol. 187, article 112875, 2026. </li>
 
-<li> Weinan Gao, Sitong Liu** and Zhong-Ping Jiang. Adaptive Optimal Output Regulation of Polynomial Systems via Internal Model Principle, Automatica, regular paper, in press, 2026. </li>
+<li> Weinan Gao, Sitong Liu** and Zhong-Ping Jiang. Adaptive Optimal Output Regulation of Polynomial Systems via Internal Model Principle, Automatica, regular paper, vol. 189, article 112986, 2026. </li>
+
+<li> Xue Liang**, Weinan Gao*, Chuan Hu and Tianyou Chai. Cooperative Adaptive Cruise Control of Connected and Autonomous Vehicles via Hybrid Iteration, IEEE Transactions on Vehicular Technology, in press, 2026. </li>
+
+<li> Sitong Liu, Masoud Davari, Weinan Gao*, Omar Qasem and Tianyou Chai. Adaptive Optimal Output Regulation Based on Adaptive Dynamic Programming and Output-Feedback Hybrid Iteration: Theory and Applications Across Diverse Time Scales from PMDC Motor Drives to IBR-Based Microgrids, IEEE Transactions on Industrial Electronics, in press, 2026, doi: 10.1109/TIE.2026.3679825. </li>
+
+<li> Weinan Gao, Yuchen Dong** and Tianyou Chai. A Review of Learning-based Adaptive Optimal Control for Output Regulation and Resilience, International Journal of Systems Science, in press, 2026, doi: 10.1080/00207721.2026.2640112. </li>
+
+<li> Sayan Chakraborty, Weinan Gao and Zhong-Ping Jiang. A Review on Resilient Reinforcement Learning for Linear Cyber-Physical Systems, Journal of Systems Science and Complexity, vol. 39, 729-658, 2026. </li>
 
 <li> Weinan Gao, Zhong-Ping Jiang and Tianyou Chai. Resilient Control Under Denial-of-Service and Uncertainty: An Adaptive Dynamic Programming Approach, IEEE Transactions on Automatic Control, vol. 70, no. 6, pp. 4085-4092, 2025. </li>
 
 <li> Yongliang Yang, Weinan Gao* and Zhong-Ping Jiang. Fast Adaptive Dynamic Programming: Shamanskii Iteration for Adaptive Optimal Control, Automatica, vol. 181, article 112494, 2025. </li>
-
-<li> Xue Liang**, Weinan Gao*, Chuan Hu and Tianyou Chai. Cooperative Adaptive Cruise Control of Connected and Autonomous Vehicles via Hybrid Iteration, accepted by IEEE Transactions on Vehicular Technology, 2025. </li>
 
 <li> Yiheng Liu**, Weinan Gao* and Yongliang Yang. Data-Driven Chebyshev Iteration for Linear Quadratic Gaussian Games, SCIENCE CHINA Information Sciences, 2025. </li>
 
