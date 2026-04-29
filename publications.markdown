@@ -39,13 +39,15 @@ permalink: /publications/
 
 <li> Sayan Chakraborty, Weinan Gao and Zhong-Ping Jiang. A Review on Resilient Reinforcement Learning for Linear Cyber-Physical Systems, Journal of Systems Science and Complexity, vol. 39, 729-658, 2026. </li>
 
+<li> Zhongyang Wang, Li Liang, Weinan Gao and Youqing Wang. Optimal Output–Feedback Tracker Design of Linear Quadratic Tracking Problem Using High-Order Filter and Incremental Data Adaptive Dynamic Programming, IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 56, no. 2, pp. 1237-1248, 2026. </li>
+
 <li> Weinan Gao, Zhong-Ping Jiang and Tianyou Chai. Resilient Control Under Denial-of-Service and Uncertainty: An Adaptive Dynamic Programming Approach, IEEE Transactions on Automatic Control, vol. 70, no. 6, pp. 4085-4092, 2025. </li>
 
 <li> Yongliang Yang, Weinan Gao* and Zhong-Ping Jiang. Fast Adaptive Dynamic Programming: Shamanskii Iteration for Adaptive Optimal Control, Automatica, vol. 181, article 112494, 2025. </li>
 
 <li> Yiheng Liu**, Weinan Gao* and Yongliang Yang. Data-Driven Chebyshev Iteration for Linear Quadratic Gaussian Games, SCIENCE CHINA Information Sciences, 2025. </li>
 
-<li> Yi Jiang, Tao Yang, Weinan Gao, Jin Wu, Tianyou Chai, and Frank L. Lewis. Off-Policy Reinforcement Learning for H_\infty Control of Linear Discrete-Time Systems with Network Induced Dropouts, accepted by IEEE Transactions on Automatic Control, 2025. </li>
+<li> Yi Jiang, Tao Yang, Weinan Gao, Jin Wu, Tianyou Chai, and Frank L. Lewis. Off-Policy Reinforcement Learning for H_\infty Control of Linear Discrete-Time Systems with Network Induced Dropouts, IEEE Transactions on Automatic Control, regular paper, vol. 70, no. 12, pp. 8000-8015, 2025. </li>
 
 <li> 董昱辰**，高伟男*，姜钟平. 基于分布式自适应内模的多智能体系统协同最优输出调节, 自动化学报，51(3): 678-691，2025. </li>
 
@@ -222,6 +224,8 @@ permalink: /publications/
 <li> Yiheng Liu**, Weinan Gao* and Zhong-Ping Jiang. Hybrid iteration algorithm for mean-field game-based reinforcement learning in linear quadratic Gaussian games, Chinese Control Conference, 2026. </li>
 
 <li> Yuchen Dong**, Weinan Gao* and Zhongmei Li. Resilient Optimal Output Regulation under Denial-Of-Service Attacks with an Application to Autonomous Vehicles, IEEE International Conference on Intelligent Transportation Systems (ITSC), 2025. </li>
+
+<li> Omar Qasem**, Weinan Gao and Omar R. Daoud. Reinforcement Learning-Based Optimal Control for Continuous-Time Quantized Systems via Adaptive Dynamic Programming, IEEE International Multi-Conference on Systems, Signals & Devices (SSD), 2025. </li>
  
 <li> Sitong Liu**, Weinan Gao* and Zhongmei Li. Policy Iteration of Nonlinear Discrete-time Systems with Input Time-Delay, IFAC Symposium on Nonlinear Control Systems, 2025. </li>
 
