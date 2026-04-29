@@ -33,7 +33,7 @@ permalink: /publications/
 
 <li> Xue Liang**, Weinan Gao*, Chuan Hu and Tianyou Chai. Cooperative Adaptive Cruise Control of Connected and Autonomous Vehicles via Hybrid Iteration, IEEE Transactions on Vehicular Technology, in press, 2026. </li>
 
-<li> Sitong Liu, Masoud Davari, Weinan Gao*, Omar Qasem and Tianyou Chai. Adaptive Optimal Output Regulation Based on Adaptive Dynamic Programming and Output-Feedback Hybrid Iteration: Theory and Applications Across Diverse Time Scales from PMDC Motor Drives to IBR-Based Microgrids, IEEE Transactions on Industrial Electronics, in press, 2026, doi: 10.1109/TIE.2026.3679825. </li>
+<li> Sitong Liu**, Masoud Davari, Weinan Gao*, Omar Qasem** and Tianyou Chai. Adaptive Optimal Output Regulation Based on Adaptive Dynamic Programming and Output-Feedback Hybrid Iteration: Theory and Applications Across Diverse Time Scales from PMDC Motor Drives to IBR-Based Microgrids, IEEE Transactions on Industrial Electronics, in press, 2026, doi: 10.1109/TIE.2026.3679825. </li>
 
 <li> Weinan Gao, Yuchen Dong** and Tianyou Chai. A Review of Learning-based Adaptive Optimal Control for Output Regulation and Resilience, International Journal of Systems Science, in press, 2026, doi: 10.1080/00207721.2026.2640112. </li>
 
@@ -51,7 +51,7 @@ permalink: /publications/
 
 <li> 刘思彤**, 高伟男*, 姜钟平. 带有输入时滞的非线性系统基于学习的输出反馈控制, 自动化学报, 51(10): 2293−2301, 2025. </li>
 
-<li> Zijian Yang, Yuchen Dong, Weinan Gao*, Quan Na* and Tengfei Liu. Output-Feedback Optimal Control to Prevent Hypotension Associated with Labor Epidural Anesthesia, accepted by Unmanned Systems, 2025. </li>
+<li> Zijian Yang**, Yuchen Dong**, Weinan Gao*, Quan Na* and Tengfei Liu. Output-Feedback Optimal Control to Prevent Hypotension Associated with Labor Epidural Anesthesia, accepted by Unmanned Systems, 2025. </li>
 
 <li> Guilong Liu, Yongliang Yang, Weinan Gao and Donald C. Wunsch. Adaptive Nussbaum Design for Nonholonomic Systems with Asymptotic Stabilization against False Data Injection, accepted by IEEE Transactions on Cybernetics, 2025. </li>
 
@@ -215,6 +215,14 @@ permalink: /publications/
 # Conference Papers #
 <ol>
 
+<li> Yiheng Liu** and Weinan Gao*. Data-driven Shamanskii iteration for linear quadratic Gaussian games, IFAC World Congress, 2026. </li>
+
+<li> Weinan Gao, Yuchen Dong** and Zhong-Ping Jiang. Resilient Control of Nonlinear Uncertain Systems Under Denial-of-Service Attacks: A Learning-Based Approach, Asian Control Conference, 2026. </li>
+
+<li> Yiheng Liu**, Weinan Gao* and Zhong-Ping Jiang. Hybrid iteration algorithm for mean-field game-based reinforcement learning in linear quadratic Gaussian games, Chinese Control Conference, 2026. </li>
+
+<li> Yuchen Dong**, Weinan Gao* and Zhongmei Li. Resilient Optimal Output Regulation under Denial-Of-Service Attacks with an Application to Autonomous Vehicles, IEEE International Conference on Intelligent Transportation Systems (ITSC), 2025. </li>
+ 
 <li> Sitong Liu**, Weinan Gao* and Zhongmei Li. Policy Iteration of Nonlinear Discrete-time Systems with Input Time-Delay, IFAC Symposium on Nonlinear Control Systems, 2025. </li>
 
 <li> Sayan Chakraborty, Weinan Gao, Kyriakos G. Vamvoudakis and Zhong-Ping Jiang. Active Learning-Based Control for Resiliency of Uncertain Systems Under DoS Attacks, American Control Conference, 2025. </li>
