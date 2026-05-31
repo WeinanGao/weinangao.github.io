@@ -17,6 +17,7 @@ permalink: /group/
 * Yiheng Liu (2024级硕士研究生)
 * Zijian Yang (2024级硕士研究生)
 * Jiaze Li (2024级硕士研究生)
+* Kuang Xu (2025级博士研究生)
 
 <img src="{{site.url}}/images/GroupNEU2025.jpg" alt="GroupNEU2025" width="400px" height="300px" />&nbsp;
 
