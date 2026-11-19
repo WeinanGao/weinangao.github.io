@@ -31,9 +31,13 @@ permalink: /publications/
 
 <li> Weinan Gao, Sitong Liu** and Zhong-Ping Jiang. Adaptive Optimal Output Regulation of Polynomial Systems via Internal Model Principle, Automatica, regular paper, vol. 189, article 112986, 2026. </li>
 
-<li> Xue Liang**, Weinan Gao*, Chuan Hu and Tianyou Chai. Cooperative Adaptive Cruise Control of Connected and Autonomous Vehicles via Hybrid Iteration, IEEE Transactions on Vehicular Technology, in press, 2026. </li>
+<li> Yuchen Dong**, Weinan Gao* and Tianyou Chai. Resilient Optimal Control of Partially Linear Systems Under DoS Attacks Based on Robust Adaptive Dynamic Programming, IEEE Transactions on Systems, Man, and Cybernetics: Systems, in press, 2026, doi: 10.1109/TSMC.2026.3750971. </li> 
 
-<li> Sitong Liu**, Masoud Davari, Weinan Gao*, Omar Qasem** and Tianyou Chai. Adaptive Optimal Output Regulation Based on Adaptive Dynamic Programming and Output-Feedback Hybrid Iteration: Theory and Applications Across Diverse Time Scales from PMDC Motor Drives to IBR-Based Microgrids, IEEE Transactions on Industrial Electronics, in press, 2026, doi: 10.1109/TIE.2026.3679825. </li>
+<li> Xue Liang**, Weinan Gao*, Chuan Hu and Tianyou Chai. Cooperative Adaptive Cruise Control of Connected and Autonomous Vehicles via Hybrid Iteration, IEEE Transactions on Vehicular Technology, vol. 75, no. 6, 8793-8804, 2026. </li>
+
+<li> Sayan Chakraborty, Weinan Gao, Kyriakos G. Vamvoudakis and Zhong-Ping Jiang. Robust Learning-based Output Regulation Under Denial-of-Service Attacks, IEEE Transactions on Automatic Control, in press, 2026. doi: 10.1109/TAC.2026.3735895. </li>
+
+<li> Sitong Liu**, Masoud Davari, Weinan Gao*, Omar Qasem** and Tianyou Chai. Adaptive Optimal Output Regulation Based on Adaptive Dynamic Programming and Output-Feedback Hybrid Iteration: Theory and Applications Across Diverse Time Scales from PMDC Motor Drives to IBR-Based Microgrids, IEEE Transactions on Industrial Electronics, vol. 73, no. 10, 15154-15168, 2026, doi: 10.1109/TIE.2026.3679825. </li>
 
 <li> Weinan Gao, Yuchen Dong** and Tianyou Chai. A Review of Learning-based Adaptive Optimal Control for Output Regulation and Resilience, International Journal of Systems Science, in press, 2026, doi: 10.1080/00207721.2026.2640112. </li>
 
