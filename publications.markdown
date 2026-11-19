@@ -9,9 +9,10 @@ permalink: /publications/
 <li> Weinan Gao. Data-driven Adaptive Optimal Tracking and its Applications to Intelligent Transportation Systems. New York University, 2017. </li>
 </ol> 
 
-# Book Chapters #
-<ol> 
-<li> Weinan Gao, Nairong Qiao** and Fuyu Zhao. Data-Driven Adaptive Optimal Control of Vehicular Platoons With Ensured String Stability, Encyclopedia of Systems and Control Engineering, in press. </li>
+# Book and Book Chapters #
+<ol>
+<li> Weinan Gao, Zhong-Ping Jiang and Andreas A. Malikopoulos (Eds). Control, Learning, and Optimization with Applications in Connected and Autonomous Vehicles, published by The Institution of Engineering and Technology, 2026, ISBN: 9781837241606. </li> 
+<li> Weinan Gao, Nairong Qiao** and Fuyu Zhao. Data-Driven Adaptive Optimal Control of Vehicular Platoons With Ensured String Stability, Encyclopedia of Systems and Control Engineering, in press, 2026. </li>
 <li> Weinan Gao and Zhong-Ping Jiang. Data-driven Nonlinear Adaptive Optimal Control of Connected Vehicles. Neural Information Processing, Lecture Notes in Computer Science series , Springer, 2017. </li>
 <li> Zhong-Ping Jiang, Tao Bian and Weinan Gao.  Learning-Based Control: A Tutorial and Some Recent Results, Foundations and Trends in Systems and Control: vol. 8, no. 3, pp 176–284, 2020. doi: 10.1561/2600000023. </li>
 </ol>
